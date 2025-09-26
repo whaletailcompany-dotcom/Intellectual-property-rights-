@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Terms and Conditions</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+      line-height: 1.6;
+    }
+    h1 {
+      color: #333;
+    }
+    footer {
+      margin-top: 50px;
+      text-align: center;
+      font-size: 14px;
+      color: #555;
+      border-top: 1px solid #ddd;
+      padding-top: 10px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Terms and Conditions</h1>
+  <p>
+    By accessing or reading this page, you agree to the terms and conditions of Whale Tail Advertising Agency.
+  </p>
+  <p>
+    All rights reserved. Unauthorized use, reproduction, or distribution of any content belonging to Whale Tail is strictly prohibited.
+  </p>
+
+  <!-- الحقوق -->
+  <footer>
+    © 2025 Whale Tail Advertising Agency. All rights reserved.
+  </footer>
+</body>
+</html>
